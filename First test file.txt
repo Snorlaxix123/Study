@@ -1,2 +1,0 @@
-Testing merge option!
-Changing the conttent from gitbub !
